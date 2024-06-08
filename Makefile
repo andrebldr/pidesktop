@@ -10,7 +10,7 @@ install: pidesktop-base.deb
 	sudo dpkg -i pidesktop-base.deb
 
 test:
- 	cp pidesktop-base/usr/share/pidesktop/script/pd-check       /usr/share/pidesktop/script
+ 	cp pidesktop-base/usr/share/pidesktop/script/pd-check /usr/share/pidesktop/script
 	cp pidesktop-base/usr/share/pidesktop/python/pd-powerkey.py /usr/share/pidesktop/python
 	cp pidesktop-base/usr/share/pidesktop/python/pd-shutdown.py /usr/share/pidesktop/python
 
