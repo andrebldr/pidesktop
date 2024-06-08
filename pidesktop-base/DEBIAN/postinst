@@ -20,4 +20,4 @@ sudo systemctl list-unit-files | grep pidesktop
 #sudo /usr/share/pidesktop/python/pd-clonessd.py
 
 # fix up the rtc by default
-sudo /usr/share/pidesktop/python/pd-fixrtc.py
+#sudo /usr/share/pidesktop/python/pd-fixrtc.py
